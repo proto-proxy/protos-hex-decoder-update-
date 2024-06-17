@@ -1,15 +1,2 @@
-welcome to the tut for proto hex decoder 
-
-1. enter game path
-2. use the arrow keys to navigate to any swap you want 
-2. click enter and wait (times may very on internet speed and cpu usage)
-
-
-
-
-
-
-
-errors this program is in beta and its not the most stable if you have any errors please do not hesitate to report it to the server 
-
-1. MY ITS CRASHING (fix is you have to start the discord app)
+welcome to the tut for proto hex swapper
+ use the arrow keys to navigate and enter to select pretty simple and if its closes instantly you need to run the discord app 
